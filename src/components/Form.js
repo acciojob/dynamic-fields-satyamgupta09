@@ -46,7 +46,7 @@ export default function Form() {
           />
           <input
             type="number"
-            age="age"
+            name="age"
             placeholder="Age"
             id={index}
             value={form.age}
